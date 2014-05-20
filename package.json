@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/planetoftheweb/rouxclass/issues"
   },
-  "homepage": "https://github.com/planetoftheweb/rouxclass"
+  "homepage": "https://github.com/planetoftheweb/rouxclass",
+  "dependencies": {
+    "express": "^4.2.0"
+  }
 }
